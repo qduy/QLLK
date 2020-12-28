@@ -32,4 +32,4 @@ insert into HangBan(MaHD,SoLuong,MaSP)
 values('HD09',1,'SP27')
 
 
-select*from HangBan
+select*from MuaHang
